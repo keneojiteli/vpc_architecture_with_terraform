@@ -5,7 +5,7 @@ This repository contains Terraform configurations to provision a highly availabl
 This project aims to demonstrate the deployment of a foundational AWS network environment capable of hosting a scalable web application. It showcases best practices in Infrastructure as Code (IaC), and cloud networking.
 
 ## Architecture Diagram
-![Architecture Diagram](img/arch_diagram.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/a4663abd-28e3-457b-ac51-9933469fae10)
 
 ## Features
 - Multi-AZ Deployment: Infrastructure spans two Availability Zones for high availability.
