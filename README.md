@@ -5,6 +5,7 @@ This repository contains Terraform configurations to provision a highly availabl
 This project aims to demonstrate the deployment of a foundational AWS network environment capable of hosting a scalable web application. It showcases best practices in Infrastructure as Code (IaC), and cloud networking.
 
 ## Architecture Diagram
+![Architecture Diagram](img/arch_diagram.png)
 
 ## Features
 - Multi-AZ Deployment: Infrastructure spans two Availability Zones for high availability.
@@ -55,4 +56,4 @@ This project aims to demonstrate the deployment of a foundational AWS network en
 
 - sg.tf – security groups allowing restricted SSH access
 
-##### Project Documentation
+##### [Project Documentation](https://keneojiteli.hashnode.dev/cloud-networking-in-practice-building-a-highly-available-vpc-on-aws-with-terraform) 
